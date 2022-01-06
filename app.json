@@ -1,15 +1,15 @@
 {
-  "name": "StylishText",
+  "name": "⚡️ Magic Text  bot⚡️ ",
   "description": "Telegram bot helps to get Stylish Text. Create your Fork now.",
   "keywords": [
     "telegram",
     "best",
     "StylishText"
   ],
-  "logo": "https://telegra.ph/file/64a33f1fe14c0e26c39b1.jpg",
-  "success_url": "https://telegram.dog/stylishtext_Nsbot",
-  "website": "https://github.com/Ns-Bots/Stylish-Text",
-  "repository": "https://github.com/Ns-Bots/Stylish-Text",
+  "logo": "https://telegra.ph/file/f6278d312a9572276bf46.jpg",
+  "success_url": "https://github.com/zmraj/Stylish-Text",
+  "website": "https://github.com/zmraj/Stylish-Text",
+  "repository": "https://github.com/zmraj/Stylish-Textt",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
